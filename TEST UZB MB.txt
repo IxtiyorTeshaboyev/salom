@@ -1,0 +1,1401 @@
+﻿Ko‘pchilik foydalanuvchilar tomonidan ma'lumotlar bazasini yaratish, to‘ldirish va birgalikda foydalanish uchun mo‘ljallangan dasturiy vositalar majmuasi nima deyiladi?
+A. Ma'lumotlar bazasini boshqarish tizimi
+B. Sonli o'zgarmas
+C. Ma’lumotlar lug‘ati
+D. Hisoblash tizimi
+ANSWER: A
+
+Fayllarni boshqarish qanday amalga oshiriladi
+A. Fayl tizimi orqali 
+B. Kataloglar orqali
+C. Foydalanuvchilar roli orqali
+D. Fayl nomlari orqali
+ANSWER: A
+
+O‘zaro bog‘langan ma’lumotlar nima deb ataladi
+A. ma’lumotlar tizimi
+B. ma’lumotlar bazasi tizimi
+C. ma'lumotlar bazasini boshqarish tizimi
+D. ma’lumotlar elementi
+ANSWER: A
+
+Ma’lumotlar bazasi adminstratori bu-
+A. bitta yoki bir nechta ma’lumotlar bazasi haqida to‘liq tasavvurga ega mutaxassis bo‘lib, ushbu ma’lumotlar bazasini loyihalash va qo’llanilishini nazorat qilish bilan shug‘ullanadi
+B. bitta yoki bir nechta ma’lumotlar to'plami haqida to‘liq tasavvurga ega predmet soha mutaxassisi
+C. bitta yoki bir nechta ma’lumotlar bazasiga texnik xizmat ko‘rsatish bilan shug‘ullanadi
+D. ma’lumotlar bazasiga faqat tarmoqda xizmat ko‘rsatish bilan shug‘ullanadi
+ANSWER: A
+
+Atributlarda saqlanadigan ma'lumotlar bu-
+A. atribut qiymatlari
+B. atribut tizimlari
+C. ma'lumotlar bazasi tizimlari
+D. ma'lumotlar bazasini boshqarish tizimlari
+ANSWER: A
+
+Zamonaviy ma'lumotlar bazasini boshqarish tizimlari fayl tizimining qaysi muammosiga yechim bo'la oladi
+A. ko‘p foydalanuvchilar bilan ishlashga
+B. katta hajmdagi axborotni saqlashga
+C. ma’lumotlarni saralashga
+D. ma’lumotlarni strukturalashga
+ANSWER: A
+
+Ma`lumotlar bazasidagi axborotlar qanday boʻlishi kerak
+A. qarama – qarshi bo`lmasligi; xatosiz bo`lishi; yaxlit bo`lishi kerak
+B. qarama – qarshi bo`lishi; xatosiz bo`lishi
+C. har bir jadval ustunida IDsi ko'rsatilishi kerak
+D. xar bir jadvalda takrorlanishi kerak
+ANSWER: A
+
+Ma'lumotlar bazasini boshqarish tizimidagi foydalanuvchilar uchun mos abstraksiya bosqichini ko‘rsating
+A. Tashqi
+B. Konseptual
+C. Ichki
+D. Jismoniy
+ANSWER: A
+
+Ma'lumotlar bazasi asosiy modellari nechta?
+A. 3 ta
+B. 4 ta
+C. 5 ta
+D. 2 ta
+ANSWER: A
+
+Ma’lumotlarni tavsiflanishiga ko'ra nechtaga ajratish mumkin
+A. ikki
+B. uch
+C. to'rt
+D. besh
+ANSWER: A
+
+Ma’lumotlar bazasini boshqarish tizimi deganda nimani tushunasiz?
+A. ma'lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta'minlovchi, maxsus lingvistik vositalar majmuiga ega bo`lgan dasturiy ta`minot
+B. ma'lumotlar bazalarini yaratish uchun dasturiy ta'minot
+C. ma'lumotlar bazalarini yaratish va foydalanish uchun dasturiy ta'minot
+D. ma'lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta'minlovchi dasturiy ta'minot
+ANSWER: A
+
+Ma'lumotlar bazasidagi ma'lumotlarni xotiraga saqlanishi qaysi tavsiflashga tegishli
+A. Fizik tavsiflash
+B. Logik tavsiflash
+C. Mantiqiy tavsiflash
+D. logik va fizik tavsiflash
+ANSWER: A
+
+Ma`lumotlar bazasidagi ma`lumotlarni foydalanuvchilarga interfeys orqali ko`rinishi qaysi tavsiflashga tegishli
+A. logik
+B. lizik
+C. konseptual
+D. logik va fizik
+ANSWER: A
+
+Bitta MBBTda nechtagacha ma'lumotlar bazasi bo`lishi mumkin
+A. bir nechta
+B. bitta
+C. ikkita
+D. turli MBBTlarda turlicha
+ANSWER: A
+
+MBBT arxitekturasining bosqichi hisoblanmaydigan javob variantini ko‘rsating
+A. Datalogik
+B. Logik
+C. Konseptual
+D. Fizik
+ANSWER: A
+
+MBBT arxitekturasining nechta  bosqichi mavjud
+A. 3 ta
+B. 4 ta
+C. 5 ta
+D. 2 ta
+ANSWER: A
+
+Ob’еkt atributi deganda nima tushuniladi?
+A. jadval ustuni
+B. jadval qatori
+C. jadval katakchalari
+D. jadval
+ANSWER: A
+
+Mohiyat aloqa diagrammasida uchraydigan shaklni toping
+A. Ellips
+B. Parallelogram
+C. Aylana
+D. Trapetsiya
+ANSWER: A
+
+Mohiyat aloqa diagrammasida qanday shakl qo`llanilmaydi
+A. Parallelogram
+B. Romb
+C. to`rtburchak
+D. to`g`ri chiziq
+ANSWER: A
+
+Relyatsion algebra amallarini ko`rsating
+A. Kesishuv, birlashtirish, ayirish, dekard ko`paytma
+B. Kesishuv, qo`shish, seleksiya, dekard ko`paytma
+C. Kesishuv, seleksiya, ayirish, dekard ko`paytma
+D. Kesishuv, qo`shish, ayirish, seleksiya,  dekard ko`paytma
+ANSWER: A
+
+Ma’lumotlarni taqdim etish modellari bo‘yicha klassifikatsiya qaysi variantda tasvirlangan
+A. ierarxik, tarmoqli, relyatsion, obyektga yo‘naltirilgan
+B. lokal, tarmoq, bo‘lingan
+C. hujjatli, faktografik, leksikografik
+D. faylli va katalogli
+ANSWER: A
+
+Relyatsion ma’lumotlar bazasidagi asosiy tushunchalarni aniqlang?
+A. Jadval, maydon, yozuv
+B. Jadval, ustun, qator
+C. Jadval, ustun, yozuv
+D. Jadval, ustun
+ANSWER: A
+
+Relyatsion ma’lumotlar bazasining asosiy tushunchalarini aniqlang?
+A. munosabatlarning majmuasi yoki ikkilik jadvallari
+B. munosabatlarning majmuasi yoki ikkilik bazasi
+C. munosabatlarning majmuasi yoki ikkilik qatorlar
+D. munosabatlarning majmuasi yoki ikkilik ustunlar
+ANSWER: A
+
+Markazlashtirilgan to`plam va ma’lumotlardan jamoaviy foydalanish zarur bo`lgan dasturiy, til, tashkiliy va texnik vositalar tizimi ........deb ataladi.
+A. ma’lumotlar banki
+B. ma’lumotlar bazalari
+C. ilovalar
+D. ma’lumotlar lug’ati
+ANSWER: A
+
+Amaliy masalalar uchun avtomatlashtirilgan ishlov berishni ta’minlovchi dastur yoki dasturlar kompleksiga .............deyiladi.
+A. ma’lumotlar bazasini boshqarish tizimi
+B. ma’lumotlar bazalari
+C. ilovalar
+D. ma’lumotlar lug’ati
+ANSWER: A
+
+Ma’lumotlarni taqdim etishning relyatsion modelida foydalanuvchiga ma’lumotlar qaysi ko‘rinishda uzatiladi
+A. jadvallar
+B. ro‘yxatlar
+C. daraxt turidagi graf
+D. ixtiyoriy graf
+ANSWER: A
+
+Tezkorlik va xotira sarfi ko`rsatkichlari bo`yicha samarali ish olib borish imkoniyati qaysi ma'lumot modellarida mavjud
+A. Tarmoq modellari
+B. Ierarxik modellar
+C. Relyatsion modellar
+D. Ko`p o`lchamli modellar
+ANSWER: A
+
+Ma’lumotlarni taqdim etish modeli bu-
+A. Malumotlar bazasida saqlanuvchi ma’lumotlarning mantiqiy strukturasi
+B. Ma’lumotlar bazasida saqlanuvchi ma’lumotlarning fizik strukturasi
+C. Ma’lumotlarning ierarxik strukturasi
+D. Ma’lumotlarning tarmoq strukturasi
+ANSWER: A
+
+Qo`llanilish tavsifiga ko`ra MBBTlar qanday turlarga bo`linadi?
+A. bir va ko`p foydalanuvchilar
+B. bir pog’onali va ko`p pog’onali
+C. shaxsiy va jamoaviy
+D. to`liq va to`liq emas
+ANSWER: A
+
+Ma’lumotlarni taqdim etishning tarmoq modelida ma’lumotlar bog'lanishi qanday tasvirlanadi
+A. ixtiyoriy graf
+B. ro‘yxatlar
+C. daraxt turidagi graf 
+D. jadvallar
+ANSWER: A
+
+Ma’lumotlarni taqdim etish modelining qaysi biri eng keng tarqalgan hisoblanadi
+A. relyatsion
+B. obyektga yo‘naltirilgan
+C. tarmoqli
+D. ierarxik
+ANSWER: A
+
+Ma’lumotlarni taqdim etishning ierarxik modelida ma’lumotlar bog'lanishi qanday tasvirlanadi
+A. daraxt turidagi graf
+B. ixtiyoriy graf
+C. ro‘yxatlar
+D. jadvallar
+ANSWER: A
+
+Mohiyat-aloqa modelining asosiy tushunchalari
+A. mohiyat, atribut, aloqa
+B. atribut, jadval, aloqa
+C. obyekt, xususiyat, munosabat
+D. kalit, qiymat, assotsiatsiya
+ANSWER: A
+
+Obyektlar orasidagi munosabat turini aniqlang: talaba va reyting daftarchasi
+A. 1:1
+B. m:1
+C. n:m
+D. m:1
+ANSWER: A
+
+Jadvallar o'rtasidagi aloqalarning uch turi to‘g‘ri berilgan javobni ko‘rsating
+A. Birga-ko‘p, birga-bir, ko‘pga-ko‘p
+B. Birga-uch, birga-bir, ko‘pga-ko‘p.
+C. Birga-ko‘p, birga-bir, ko‘pga-noaniq.
+D. Birga-aniq, birga-bir, ko‘pga-ko‘p.
+ANSWER: A
+
+Talabalar va guruh obyektlari orasidagi aloqa modelini aniqlang
+A. n:1
+B. 1:1
+C. n:m
+D. bog‘lanmagan
+ANSWER: A
+
+Viloyat va tumanlar obyektlari orasidagi aloqa modelini aniqlang
+A. 1: m
+B. 1:1
+C. m:n
+D. m:1
+ANSWER: A
+
+Mohiyat-aloqa modelini birinchi bo'lib kim taklif qilgan
+A. Piter Chen
+B. Tyuring
+C. Edgar Kodd
+D. Eyler
+ANSWER: A
+
+Talabalar va auditoriyalar obyektlari orasidagi munosabat turini aniqlang
+A. m:n
+B. n:1
+C. 1:1
+D. 1: m
+ANSWER: A
+
+O'qituvchilar va talabalar jadvallari orasida munosobat turini aniqlang
+A. n:m
+B. n:1
+C. 1:1
+D. 1: m
+ANSWER: A
+
+Daraxt ko‘rinishida qaysi ma’lumotlar bazasi tasvirlanadi?
+A. ierarxik
+B. tarmoqli
+C. relyatsion
+D. invertlangan ro‘yxat asosiga
+ANSWER: A
+
+Kortej bu ....?
+A. qator
+B. ustun
+C. jadval
+D. katakcha
+ANSWER: A
+
+Munosobat nima?
+A. jadval
+B. ustun
+C. qator
+D. katakcha
+ANSWER: A
+
+Domen bu ....?
+A. ustun
+B. jadval
+C. qator
+D. katakcha
+ANSWER: A
+
+Relyatsion ma’lumotlar bazasida ma’lumotlarni saqlashning asosiy formasi
+A. Jadval
+B. Yozuv
+C. Domen
+D. Atribut
+ANSWER: A
+
+Unikal identifikator nima
+A. Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+B. Jadval nomi
+C. Ustun nomi
+D. Qator va ustunlarning mosligi
+ANSWER: A
+
+Jadvalning har xil qatorlari bir xil qiymatdagi kalitga ega bo‘ladimi?
+A. Yo‘q, bir xil qiymatga ega bo'lmaydi
+B. Ha, bir xil qiymatga ega bo'lishi mumkin
+C. Agar jadval ikkilamchi kalitga ega bo‘lsa
+D. Agar jadval birlamchi kalitga ega bo’lsa
+ANSWER: A
+
+Qator bu?
+A. yozuv, kortej, ekzemplyar
+B. atribut, maydon
+C. fayl
+D. annorgamma
+ANSWER: A
+
+Unikal maydon deb qanday qatorga aytiladi
+A. qiymati qaytarilmaydigan maydon
+B. unikal nom ostidagi maydon
+C. qiymati oshish xususiyatiga ega maydon
+D. qiymati boshqasi bilan bog‘lanmagan maydon
+ANSWER: A
+
+Relyatsion  ma’lumotlar bazasida qaysi so‘rov tillari qo‘llaniladi
+A. SQL
+B. Objective C
+C. Haskell
+D. Basic
+ANSWER: A
+
+Ma’lumotlar bazasi jadvali nima uchun kerak?
+A. ma’lumotlarni saqlashga
+B. ma’lumotlarni qayta ishlashga
+C. ma’lumotlar bazasini kiritish va ularni ko‘zdan kechirish
+D. qiyin dasturlar yaratishga
+ANSWER: A
+
+Ikkinchi normal formada quyidagicha talab qo‘yiladi:
+A. Jadvalning hamma maydonlari birinchi kalitga bog‘liq
+B. Hamma maydonlar mustaqil
+C. Hamma maydonlar  kalitsiz maydonlarga bog‘liq
+D. Hamma maydonlar ikkilamchi kalitga bog’liq
+ANSWER: A
+
+SQL kengaytmasi nimani anglatadi?
+A. Strukturalashgan so‘rov tili
+B. Ketma-ket so‘rov tili
+C. Standart so‘rov tili
+D. Tezkor so‘rov tili
+ANSWER: A
+
+Qaysi SQL operatorlari ma'lumotlar bazasida ma'lumotlarni tavsiflashda ishlatiladi?
+A. CRATE, ALTER, DROP
+B. GRANT, REVOKE
+C. SELECT, UPDATE, INSERT, DELETE
+D. MODIFY, TRUNCATE
+ANSWER: A
+
+Qaysi SQL operatorlari ma'lumotlar bazasida ma'lumotlarni manipulyatsiyalashda ishlatiladi?
+A. SELECT, UPDATE, INSERT, DELETE
+B. MODIFY, TRUNCATE
+C. CRATE, ALTER, DROP
+D. GRANT, REVOKE
+ANSWER: A
+
+Sana vaqt toifasi qaysi javobda to'g'ri ko'rsatilgan
+A. TIMESTAMP
+B. NUMERIC
+C. BOOLEAN
+D. INTEGER
+ANSWER: A
+
+Jadvaldagi  ustunga  qo‘yilgan  qanday  cheklanish ustun  qiymatlarining  bo‘sh  bo‘lmasligini ko‘rsatadi
+A. NOT NULL
+B. FORGN KEY
+C. UNIQUE
+D. CHECK
+ANSWER: A
+
+VARChAR toifasi bu - 
+A. o‘zgaruvchan toifadagi satr tipi
+B. butun tip
+C. sana va vaqt
+D. moddiy son
+ANSWER: A
+
+>, <, >=, <=, <>, == operatorlari ........deyiladi
+A. Solishtirish amallari
+B. Mantiqiy amallar
+C. O‘zlashtirish amallari
+D. Arifmetik amallar va operatorlar
+ANSWER: A
+
+3 NFga o`tishdan oldin jadval qaysi normal formada bo`lishi shart
+A. 2 NF
+B. 4 NF
+C. 5 NF
+D. 6 NF
+ANSWER: A
+
+Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarini ma’lum bir shart bo‘yicha tekshiradi
+A. CHECK
+B. FORGN KEY
+C. NOT NULL
+D. UNIQUE
+ANSWER: A
+
+Qaysi bir MBBT klient-server turiga kirmaydi
+A. ACCESS
+B. MySQL
+C. SQL Server
+D. ORACLE
+ANSWER: A
+
+TRUE va FALSE  qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+A. Bul toifali
+B. Butun toifali
+C. Sana va vaqt toifali
+D. Qator toifali
+ANSWER: A
+
+Butun toifa keltirilgan javobni ko`rsating
+A. NUMERIC
+B. FLOAT
+C. TIMESTAMP
+D. VARChAR
+ANSWER: A
+
+NOT, AND, OR operatorlari vazifasi nimadan iborat?
+A. Mantiqiy amallarni bajarish
+B. Solishtirish ammallarini bajarish
+C. O‘zlashtirish amallarini bajarish
+D. Arifmetik amallar va operatorlar
+ANSWER: A
+
+Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining takrorlanmasligini ta’minlaydi
+A. UNIQUE
+B. FOREIGN KEY
+C. NOT NULL
+D. ChECK
+ANSWER: A
+
+MAX() agregat funksiyasining vazifasini ayting
+A. Belgilangan ustunning eng katta qiymatini topish
+B. Belgilangan qatorning eng katta qiymatini topish
+C. Belgilangan elementning eng katta qiymatini topish
+D. Belgilangan obyektning eng katta qiymatini topish
+ANSWER: A
+
+MIN() agregat funksiyasining vazifasini ayting
+A. Belgilangan ustunning eng kichik qiymatini topish
+B. Belgilangan qatorning eng kichik qiymatini topish
+C. Belgilangan elementning eng kichik qiymatini topish
+D. Belgilangan obyektning eng kichik qiymatini topish
+ANSWER: A
+
+AVG() agregat funksiyasining vazifasini ayting
+A. Belgilangan ustunning o`rta arifmetigini topish
+B. Belgilangan qatorning o`rta arifmetigini topish
+C. Belgilangan jadvalning o`rta arifmetigini topish
+D. Belgilangan ob`yektning o`rta arifmetigini topish
+ANSWER: A
+
+COUNT() agregat funksiyasining vazifasini ayting
+A. Belgilangan obyektning qatorlar sonini topish
+B. Belgilangan qatorning  qatorlar sonini topish
+C. Belgilangan elementning o`rta arifmetigini topish
+D. Belgilangan obyektning o`rta arifmetigini topish
+ANSWER: A
+
+CREATE operatorining vazifasi?
+A. Ma’lumotlar bazasida obyekt yaratish
+B. Ma’lumotlar bazasida obyektni o‘chirish
+C. Ma’lumotlar bazasida obyektni o‘zgartirish
+D. Jadvalga qator qo‘shish
+ANSWER: A
+
+ALTER operatorining vazifasi?
+A.  Ma’lumotlar bazasida obyektni o‘zgartirish
+B. Ma’lumotlar bazasida obyektni o‘chirish
+C. Ma’lumotlar bazasida obyektni o‘zgartirish
+D. Jadvalga qator qo‘shish
+ANSWER: A
+
+DROP operatorining vazifasi?
+A. Ma’lumotlar bazasidan obyektni o‘chirish
+B. Ma’lumotlar bazasidan obyektni o‘zgartirish
+C. Jadvalga qator qo‘shish
+D. Jadvalga obyektni o‘chirish
+ANSWER: A
+
+Quyidagi so‘rov nimani anglatadi: SELECT * FROM STUDENT;
+A. STUDENT jadvalini tanlash
+B. STUDENT jadvalini yaratish
+C. STUDENT jadvalini o'chirish
+D. STUDENT jadvalini o'zgartirish
+ANSWER: A
+
+Quyidagi so‘rovda STUDENT nimani anglatadi: SELECT * FROM STUDENT;
+A. jadval nomi
+B. indeks
+C. ustun nomi
+D. tegishlilikni
+ANSWER: A
+
+Qidiruv so‘rovlarini tezlashtirish uchun qaysi MBBT mexanizmi ishlatiladi
+A. indekslar
+B. ikkilamchi kalitlar
+C. tranzaksiyalar
+D. so‘rovlarni bajarilishini tezlashtirish mumkin emas
+ANSWER: A
+
+CREATE TABLE jadval yaratish operatorida NULL nimani anglatadi?
+A. Ustunda qiymat bermaslik imkoniyatini
+B. Ustunga tegishli bo‘lgan satr qiymatlari bo‘sh bo‘lmasligini
+C. Jadval bo‘shligini
+D. Jadval satrlarida probellar bo‘lmasligini
+ANSWER: A
+
+CREATE TABLE jadval yaratish operatorida NOT NULL nimani anglatadi?
+A. Ustunga tegishli bo‘lgan satr qiymatlari bo‘sh bo‘lmasligini
+B. Ustunga tegishli bo‘lgan satr qiymatlari bo‘sh bo‘lishligini
+C. Jadval bo‘m bo‘shligini
+D. Jadval satrlarida probellar bo‘lmasligini
+ANSWER: A
+
+SELECT operatorini vazifasi?
+A. Jadvaldan ma’lumotlarni tanlash
+B. Jadvalga satr qo‘shish
+C. Jadvalni o‘zgartirish
+D. Jadvaldan tanlash
+ANSWER: A
+
+UPDATE operatorini vazifasi?
+A. Jadvalda qatorni o‘zgartirish
+B. Jadvalga satr qo‘shish
+C. Jadvalni o‘zgartirish
+D. Jadvaldan tanlash
+ANSWER: A
+
+DELETE operatorining vazifasi?
+A. Qatorni o‘chirish
+B. Jadvalga satr qo‘shish
+C. Jadvalni o‘zgartirish
+D. Jadvaldan tanlash
+ANSWER: A
+
+INSERT operatorini vazifasi?
+A. Jadvalga satr qo‘shish
+B. Jadvalni o‘zgartirish
+C. Jadvaldan tanlash
+D. Qatorni o‘chirish
+ANSWER: A
+
+Bitta so`rovning ichida joylashgan ikkinchi so‘rov qanday nomlanadi, misol: SELECT * FROM STUDENT WHERE group_id IN (SELECT id FROM group WHERE number=‘217-18’)
+A. quyi so‘rov
+B. bog‘lanish
+C. birlashuv
+D. farq
+ANSWER: A
+
+Quyidagi so'rov qanday natija qaytaradi SELECT * FROM students  FULL JOIN Groups ON students.group_id = groups.id
+A. NULL qiymatiga ega bo‘lmagan students.group_id = groups.id tengligi orqali bog‘lanadigan groups va students jadvalidagi barcha qatorlarni chiqaradi
+B. groups va students jadvalidagi barcha qatorlarni chiqaradi
+C. groups va students jadvalidagi students.group_id = groups.id tengligi orqali bog‘lanadigan barcha qatorlarni chiqaradi
+D. groups va students jadvalidagi dekart ko‘paytmani chiqaradi
+ANSWER: A
+
+Qaysi predikat saralash uchun ishlatiladi?
+A. ORDER BY
+B. WHERE
+C. HAVING
+D. GROUP BY
+ANSWER: A
+
+Qaysi predikat guruhlash uchun ishlatiladi?
+A. GROUP BY
+B. WHERE
+C. HAVING
+D. ORDER BY
+ANSWER: A
+
+SELECT * FROM STUDENT WHERE SURNAME Like 'P%';
+A. P harfi bilan boshlanadigan familiyalar chiqadi.
+B. P bilan tugovchi familiyalar chiqadi.
+C. Natija chiqmaydi
+D. P harfiga teng bo‘lmagan familiyalar chiqadi
+ANSWER: A
+
+SELECT operatorida FROM so‘zidan keyingi yozuv nimani bildiradi?
+A. jadvalning nomini
+B. ustunning nomini
+C. shartni
+D. kalit maydonni
+ANSWER: A
+
+Qaysi predikat berilgan shartni qanoatlantiruvchi qidiruvni amalga oshiradi?
+A. WHERE
+B. GROUP BY
+C. HAVING
+D. ORDER BY
+ANSWER: A
+
+To‘gri yozilgan SELECT operatorini ko‘rsating.
+A. SELECT * FROM <jadval nomi>
+B. SELECT * <jadval nomi>
+C. SELECT  FROM  Table <jadval nomi>
+D.  SELECT FROM  * Table_name
+ANSWER: A
+
+INSERT, UPDATE, DELETE quyidagi SQL tillarining  qaysi biriga tegishli?
+A. DML
+B. DDL
+C. DQL
+D. DSL
+ANSWER: A
+
+Qaysi operatorda WHERE ishlatib bo‘lmaydi?
+A. INSERT
+B. UPDATE
+C. SELECT
+D. DELETE
+ANSWER: A
+
+DROP va DELETE operatorlarining farqi nimada
+A. DROP obyektni, DELETE qatorni o`chiradi
+B. Farqi yo`q
+C. SQLda DROP ishlatilmaydi
+D. SQLda DELETE ishlatilmaydi
+ANSWER: A
+
+SELECT operatoridan keyin '*' belgisi nimani bildiradi?
+A. hamma ustunlarni belgilashni
+B. hamma satrlarni belgilashni
+C. satr qatorlari yulduzcha bilan shifrlanganini
+D. bu belgidan foydalanib bo‘lmaydi
+ANSWER: A
+
+Qaysi operator yordamida jadvallarni «qo`shish» amali bajariladi
+A. SELECT + JOIN
+B. SELECT + WHERE
+C. SELECT + GROUP BY
+D. SELECT + ORDER BY
+ANSWER: A
+
+Qaysi operator yordamida «kesishuv» amali bajariladi
+A. INTERSECT
+B. UNION
+C. DEVIDE
+D. MINUS
+ANSWER: A
+
+Qaysi operator yordamida «tanlash» amali bajariladi
+A. SELECT + WHERE
+B. UPDATE + WHERE
+C. INSERT
+D. DELETE + WHERE
+ANSWER: A
+
+Qaysi operator yordamida «birlashtirish» amali bajariladi
+A. UNION
+B. INTERSECT
+C. MINUS
+D. DEVIDE
+ANSWER: A
+
+Ichki bog‘lanish operatori – bu
+A. INNER JOIN
+B. FULL OUTER JOIN
+C. RIGHT OUTER JOIN
+D. LEFT OUTER JOIN
+ANSWER: A
+
+Chap tashqi bog‘lanish operatori – bu
+A. LEFT OUTER JOIN
+B. INNER JOIN
+C. FULL OUTER JOIN
+D. RIGHT OUTER JOIN
+ANSWER: A
+
+SELECT COUNT(id) FROM STUDENT so‘rovi qanday natija qaytaradi
+A.  STUDENTlarning sonini
+B. STUDENTning maksimal indentifikatorini
+C. STUDENTning  oxirgi identifikatorini
+D. STUDENTning  birinchi identifikatorini
+ANSWER: A
+
+Qaysi operator yordamida «ayiruv» amali bajariladi
+A. MINUS
+B. INTERSECT
+C. UNION
+D. DEVIDE
+ANSWER: A
+
+To‘liq tashqi bog‘lanish operatori – bu
+A. FULL OUTER JOIN
+B. RIGHT OUTER JOIN
+C. LEFT OUTER JOIN
+D. INNER JOIN
+ANSWER: A
+
+Relyatsion turdagi ma'lumotlar bazasi obyektlari necha o’lchovli jadvalni tashkil etadi?
+A. ikki
+B. bir
+C. uch
+D. to'rt
+ANSWER: A
+
+SQL tilini tarkibiy qismlariga kiradi: 1) ma’lumotlarni aniqlash tili; 2) ma’lumotlarni manipulyatsiyalash tillari; 3) ma’lumotlarni boshqarish tili; 4) dasturlash tillari
+A. 1, 2, 3
+B. 1,2,4
+C. 2.3
+D. 1,3,4
+ANSWER: A
+
+DML komandalarini ko`rsating
+A. INSERT, DELETE, UPDATE, SELECT
+B. CREATE, ALTER, DROP 
+C. INSERT, DROP, UPDATE, SELECT
+D. CREATE, ALTER, DELETE
+ANSWER: A
+
+DDL komandalarini ko`rsating
+A. CREATE, ALTER, DROP 
+B. INSERT, DELETE, UPDATE, SELECT
+C. INSERT, DROP, UPDATE, SELECT
+D. CREATE, ALTER, DELETE
+ANSWER: A
+
+UPDATE operatorini qaysi kalit so’zi jadvalni aniq ustunlarini tanlab olish imkonini beradi?
+A. SET
+B. AND va OR
+C. SETUP
+D. DATE
+ANSWER: A
+
+Amaliyotda eng ko’p tarqalgan ma’lumotlar bazalari bu-
+A. Relyatsion ma’lumotlar bazalari
+B. Ierarxik ma’lumotlar bazalari
+C. Tarmoqli ma’lumotlar bazalari
+D. Ierarxik va relyasion ma’lumotlar bazalari
+ANSWER: A
+
+SELECT operatoridan FROM so‘zidan keyingi yozuv nimani bildiradi?
+A. jadvalning nomini
+B. ustunning nomini
+C. shartni
+D. birlamchi kalitni
+ANSWER: A
+
+Select lpad(o'yinchi, 10, '*') from fun. So`rov natijasini tanlang
+A. ****Suarez
+B. **********Suarez
+C. Suarez***
+D. Suarez****
+ANSWER: A
+
+Select rpad(uyinchi, 10, '*') from func; So`rov natijasini tanlang
+A. Suarez****
+B. ****Suarez
+C. Suarez***
+D. **********Suarez
+ANSWER: A
+
+LONG toifasi xotiradan qancha joy egallaydi
+A. Bitta jadval uchun Maksimal darajasi  4GB.
+B. Bitta jadval uchun Maksimal darajasi   2 GB.
+C. Bitta jadval uchun Maksimal darajasi  6 GB.
+D. Bitta jadval uchun Maksimal darajasi  8 GB.
+ANSWER: A
+
+SELECT LEFT(`ism`, 5)  FROM `xodimlar`; so`rov natijasini toping
+A. Xodimlar ismining birinchi 5 ta harflarini chiqaradi
+B. Xodimlar ismining chap tomonidan chiqaradi
+C. Xodimlar ismining 5 ta harfini chiqaradi
+D. So`rovda xatolik beradi
+ANSWER: A
+
+Select name, year from test where year > (select year from test where name='Jonny'); So`rovdagi qavs ichidagi so`rov qanday natija qaytaradi?
+A. Jonnyning tug`ilgan yili
+B. Jonnyning test natijalari
+C. Jonnyning ma`lumotlari
+D. Jonnyning nomi va yili
+ANSWER: A
+
+Select * from table1 INNER JOIN table2 ON table1.name=table2.name; So`rovdagi "table2" nima?
+A. Jadval nomi
+B. MB ga bo‘lgan talablar o‘zgaradi
+C. Maxsus operator
+D. Jadval qatori
+ANSWER: A
+
+Select name, surname, year from test1 UNION select name, surname from test2; So`rov qanday natija qaytaradi?
+A. Xatolik yuz beradi
+B. Ikkita jadvalni qo`shadi
+C. Jadvallarni birlashtiradi
+D. Jadvallarni ayiradi
+ANSWER: A
+
+Select name, surname from test1 UNION ALL select name, surname from test2;           So`rovdagi "ALL" qanday vazifa bajaradi?
+A. Jadvallar birlashtirilayotganda ustunlardagi ma`lumotlar bir xil bo`lsa ham birlashtiradi
+B. Barcha ma`lumotlarni birlashtiradi
+C. Barcha ustunlarni birlashtiradi
+D. Barcha jadvallarni birlashtiradi
+ANSWER: A
+
+Select min(yosh), ism, familiya from test group by ism, familiya; So`rovni xatosini toping
+A. xato yo'q
+B. familiya ustuni xato ishlatilgan
+C. "group by" xato
+D. min() funksiyasi xato
+ANSWER: A
+
+Select * from test order by yosh desc; So`rovdagi "desc" nima vazifa bajaradi?
+A. yosh ustunini teskarisiga saralaydi
+B. yosh ustunini saralaydi
+C. yosh ustunini guruhlaydi
+D. Test jadvalidan ism ustunini ajratib ko`rsatadi
+ANSWER: A
+
+DISTINCT operatorining vazifasi nima?
+A. ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni bitta qilib chiqaradi
+B. ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni chiqarmaydi
+C. ma'lumotlar orasida bir xil ma'lumot bo'lsa, bu ma'lumotni ikkalasini ham chiqaradi
+D. Bunday operator SQLda ishlatilmaydi
+ANSWER: A
+
+Select ism, yosh, familiya from test where ism like 'S%'; So`rovdagi "%" nima uchun ishlatiladi
+A. "S"dan keyin simvollar bo`lishi mumkin
+B. "S"dan oldin simvollar bo`lishi mumkin
+C. "S"dan keyin % bo`lishi mumkin
+D. "S%" simvollar bo`lishi mumkin
+ANSWER: A
+
+Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+A. SUM funksiyasi yordamida
+B. COUNT funksiyasi yordamida
+C. MIN funksiyasi yordamida
+D. MAX funksiyasi yordamida
+ANSWER: A
+
+O‘ng tashqi bog‘lanish operatori  – bu
+A. RIGHT OUTER  JOIN
+B. LEFT OUTER JOIN
+C. INNER JOIN
+D. FULL OUTER JOIN
+ANSWER: A
+
+JOIN operatori nimaga mo‘ljallangan
+A. Ikki jadvaldan olingan natijalarni bitta jadvalda birlashtirish uchun
+B. Ikkala tanlovda mavjud umumiy natijalarni chiqarish uchun
+C. Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+D. Ikki so‘rov tanlovining natijalarini birlashtirish uchun
+ANSWER: A
+
+UPDATE Mahsulotlar SET  Ombordagi miqdori= `25`,  Mahsulot narxi = `6500` WHERE  Mahsulot nomi=`Olma` so`rovni natijasini aniqlang
+A. Mahsulotlar jadvalidagi Mahsulot nomi ustuni Olmaga teng bo`lgan qatorni Ombordagi miqdori ustunini 25 ga va  Mahsulot narxi ustunini 6500 ga o`zgartiradi
+B. Omborxonalar jadvalidagi Mahsulot nomi ustuni 25 ga teng bo`lgan qatorni Ombordagi miqdori ustunini 25 ga va  Mahsulot narxi ustunini 6500 ga o`zgartiradi
+C. Mahsulotlar jadvalidagi Ombordagi miqdori  ustuni Olmaga teng bo`lgan qatorni Mahsulot nomi ustunini 25 ga va  Mahsulot narxi ustunini 6500 ga o`zgartiradi
+D. Omborxonalar jadvalidagi Ombordagi miqdori  ustuni Olmaga teng bo`lgan qatorni Mahsulot nomi ustunini 25 ga va  Mahsulot narxi ustunini 6500 ga o`zgartiradi
+ANSWER: A
+
+DELETE * FROM Mahsulotlar WHERE ID=2; so`rovni natijasini aniqlang
+A. Mahsulotlar jadvalidan id 2 ga teng bo`lgan qatorni barcha ma`lumotlarini o`chiradi
+B. Mahsulotlar jadvalidan id 2 ga teng bo`lgan ustunni o`chiradi
+C. Mahsulotlar jadvalidan id 2 ga teng bo`lgan qatorni qo`shadi
+D. Mahsulotlar jadvalidan id 2 ga teng bo`lgan qatorni belgilaydi
+ANSWER: A
+
+So`rov orqali  mahsulot ob`yektidan nonni narxi o`zgartirilsin
+A. UPDATE mahsulot SET  narxi= `1050` WHERE  Mahsulot nomi=`non`
+B. UPDATE mahsulot SET  Mahsulot nomi=`non`  WHERE  narxi= `1050`
+C. DELETE mahsulot SET  narxi= `1050` WHERE  Mahsulot nomi=`non`
+D. UPDATE non SET  narxi= `1050` WHERE  Mahsulot nomi=`mahsulot`
+ANSWER: A
+
+AUTO_INCREMENT bo`lgan atributga INSERT buyrug`i orqali ma`lumot kiritish shartmi?
+A. yo`q, shart emas
+B. ha, shart
+C. har doim har xil
+D. AUTO_INCREMENT ni INSERTga aloqasi yo`q
+ANSWER: A
+
+So`rov orqali yetkazib beruvchilar ob`yektidan Sarbon MChJ ga tegishli bo`lgan barcha malumotlar o`chirilsin
+A. DELETE * FROM Yetkazib_beruvchilar WHERE Yetkazib_beruvchilar="Sarbon MChJ"
+B. DELETE * FROM Mahsulotlar WHERE Yetkazib_beruvchilar="Sarbon MChJ"
+C. DELETE * FROM Sarbon MChJ
+D. DELETE  nomi FROM Yetkazib_beruvchilar WHERE Yetkazib_beruvchilar="Sarbon MChJ"
+ANSWER: A
+
+SELECT MAX(id) FROM STUDENT so‘rovini nima qaytaradi
+A. STUDENTning maksimal indentifikatori
+B. STUDENTning  oxirgi identifikatori
+C. STUDENTning  oxirgi identifikatori
+D. STUDENTlarning miqdori
+ANSWER: A
+
+SELECT AVG(age) FROM STUDENT so‘rovi nimani qaytaradi
+A. STUDENTlarning o‘rtacha yoshini
+B. Maksimal STUDENT
+C. Minimal STUDENT
+D. STUDENTlar yoshining yig‘indisini
+ANSWER: A
+
+Jadvaldagi qatorlar soni qanday hisoblanadi
+A. COUNT funksiyasi yordamida
+B. AVG funksiyasi yordamida
+C. MIN funksiyasi yordamida
+D. MAX funksiyasi yordamida
+ANSWER: A
+
+Agregat funksiyalarni ko`rsating
+A. MIN, MAX,Count,AVG
+B. MIN, MAX, DATE,AVG
+C. MIN, MAX,SUBSTR, MID
+D. LEFT, RIGHT, MAX,Count,AVG
+ANSWER: A
+
+Qaysi operatorlar bilan MIN, MAX, AVG, SUM agregat funksiyalar bajarilishi mumkin
+A. faqatgina SELECT bilan
+B. SELECT va DELETE
+C. UPDATE
+D. INSERT va UPDATE
+ANSWER: A
+
+SELECT  MAX(`mah_narxi(so``m)`)  as  `eng qimmat mahsulot`  FROM `mahsulotlar`; so`rov natijasini toping
+A. Eng qimmat narxga ega bo`lgan mahsulot  narxi
+B. Eng arzon narxga ega bo`lgan mahsulot  narxi
+C. Eng qimmat narxga ega bo`lgan mahsulot  nomi
+D. Eng qimmat narxga ega bo`lgan mahsulot haqida barcha ma`lumot
+ANSWER: A
+
+SELECT  AVG(`mah_narxi(so``m)`) FROM `mahsulotlar`;  so`rov natijasini toping
+A. Mahsulotlar jadvalidagi `mah_narxi` ustunining o`rta arifmetigi
+B. Mahsulotlar jadvalidagi `mah_narxi` ustunining yig`indisi
+C. Mahsulotlar jadvalidagi `mah_narxi` ustunining kattasi
+D. `mah_narxi` jadvalidagi Mahsulotlar ustunining o`rta arifmetigi
+ANSWER: A
+
+Quyidagi so`rov qanday javob qaytaradi SELECT *  FROM students s INNER JOIN Groups g ON s.group_id <> g.id
+A. groups va students jadvalidagi s.group_id = g.id tengligini qanoatlantiruvchi qatorlardan tashqari barcha qatorlarni chiqarib beradi
+B. groups va students jadvalidagi barcha qatorlarni chiqaradi
+C. groups va students jadvalidagi dekart ko‘paytmani chiqaradi
+D. groups va students jadvalidagi s.group_id = g.id tengligi orqali bog‘lanadigan barcha qatorlarni chiqaradi
+ANSWER: A
+
+SELECT MIN(id) FROM STUDENT so‘rovi nimani qaytaradi
+A. STUDENTning minimal indentifikatori
+B. STUDENTning  oxirgi identifikatori
+C. STUDENTning  birinchi identifikatori
+D. STUDENTlarning miqdori
+ANSWER: A
+
+SELECT MAX(id) FROM STUDENT so‘rovi nimani qaytaradi
+A. STUDENTning maksimal indentifikatori
+B. STUDENTning  birinchi identifikatori
+C. STUDENTning  oxirgi identifikatori
+D. STUDENTlarning miqdori
+ANSWER: A
+
+SELECT SUBSTR(`familiya`,1,1)  FROM `xodimlar`; so`rov natijasini toping
+A. Xodimlar familyalarining bosh harflarini chiqaradi
+B. Xodimlar familyalarining birinchisini chiqaradi
+C. Xodimlar familyalarining bitta harfini chiqaradi
+D. So`rovda xatolik beradi
+ANSWER: A
+
+Ma’lumotlarni qaysi toifasiga MIN, MAX, AVG, SUM agregat funksiyalarni qo‘llash mumkin emas
+A. Qatorlar
+B. Sonlar
+C. Sanalar
+D. Barcha ma’lumotlarga qo‘llash mumkin
+ANSWER: A
+
+LIKE to`g`ri qollanilgan so`rovni ko`rsating
+A. SELECT   * FROM      Products WHERE   PName LIKE ‘%gizmo%’
+B. SELECT   * FROM     LIKE WHERE   PName  Products ‘%gizmo%’
+C. SELECT  LIKE(‘%gizmo%’)  FROM      Products WHERE   PName  
+D. SELECT   * FROM      Products,   PName LIKE ‘%gizmo%’
+ANSWER: A
+
+Select * from exam Where mark in (4,5); so`rov natijasini toping
+A. Imtixondan 4 yoki 5 olganlar hadiqa ma`lumot
+B. Imtixondan 4 va 5 olganlar hadiqa ma`lumot
+C. Imtixondan 4 va 5 olmaganlar hadiqa ma`lumot
+D. Imtixondan 4 ham 5 ham olganlar hadiqa ma`lumot
+ANSWER: A
+
+Lower operatorining vazifasi nima?
+A. berilgan ustunni kichik harflarga almashtirib beradi
+B. berilgan qatorni kichik harflarga almashtirib beradi
+C. berilgan satrni katta harflarga almashtirib beradi
+D. berilgan qatorni katta harflarga almashtirib beradi
+ANSWER: A
+
+Upper operatorining vazifasi nima?
+A. berilgan ustunni katta harflarga almashtirib beradi
+B. berilgan qatorni kichik harflarga almashtirib beradi
+C. berilgan satrni kichik harflarga almashtirib beradi
+D. berilgan qatorni katta harflarga almashtirib beradi
+ANSWER: A
+
+SELECT TIMESTAMPDIFF(SECOND, '2015-04-29 22:14:55', '2015-04-29 22:24:18'); So`rov natijasini aniqlang
+A. soniyalar orasidagi farq
+B. joriy vaqtni ko`rsatadi
+C. ko`rsatilgan vaqt
+D. xatolik yuz beradi
+ANSWER: A
+
+MBBTda DDL tilini vazifasi nima?
+A. Ma`lumotlarni tasvirlash tili
+B. Ma`lumotlarni manipulyatsiya qilish tili
+C. Ma`lumotlarni nazorat qilish tili
+D. Ma`lumotlarni saqlash tili
+ANSWER: A
+
+SQLda satrni uzunligini aniqlab beradigan operatorni toping
+A. Length
+B. Substr
+C. Mid
+D. First
+ANSWER: A
+
+MBBTda DML tilini vazifasi nima?
+A. Ma`lumotlarni manipulyatsiya qilish tili
+B. Ma`lumotlarni tasvirlash tili
+C. Ma`lumotlarni nazorat qilish tili
+D. Ma`lumotlarni saqlash tili
+ANSWER: A
+
+MBBTda DCL tilini vazifasi nima?
+A. Ma`lumotlarni nazorat qilish tili
+B. Ma`lumotlarni tasvirlash tili
+C. Ma`lumotlarni manipulyatsiya qilish tili
+D. Ma`lumotlarni saqlash tili
+ANSWER: A
+
+LONG toifasi xotiradan qancha joy egallaydi
+A. Bitta jadval uchun Maksimal darajasi  4GB.
+B. Bitta jadval uchun Maksimal darajasi   2 GB.
+C. Bitta jadval uchun Maksimal darajasi  6 GB.
+D. Bitta jadval uchun Maksimal darajasi  8 GB.
+ANSWER: A
+
+Ko‘p foydalanuvchili MBBTda ishlashning murakkabligi nimada
+A. Loyihalashning, ekspluatasiyasining murakkabligi
+B. Loyihalashning murakkabligi
+C. Ekspluatatsiyaning murakkabligi
+D. MB ga bo‘lgan talablar o‘zgaradi
+ANSWER: A
+
+Lokal MB da ko‘p foydalanuvchili ruxsat mavjudmi
+A. Yo‘q
+B. Ha
+C. Ha, MySQL va ORACLE mahsulotlarida
+D. MySQL dan tashqari har qanday MB da
+ANSWER: A
+
+Zahira o‘rnini bosuvchi MBBT serveri nima deb ataladi
+A. oyna
+B. massiv RAID
+C. namuna
+D. nusxa
+ANSWER: A
+
+Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+A. bir nechta
+B. faqat bitta
+C. faqat ikkita
+D. kamida ikkitadan
+ANSWER: A
+
+Tranzaksiya nechta xususiyatga ega
+A. 4
+B. 3
+C. 2
+D. 1
+ANSWER: A
+
+MB ishining mantiqiy birligi nima deb ataladi
+A. Tranzaksiya
+B. Operatsiya
+C. O‘qish
+D. Yozuvlarni qayd qilish
+ANSWER: A
+
+Tranzaksiyalarning asosiy xususiyatlari
+A. ASID
+B. APID
+C. KRUD
+D. DDL
+ANSWER: A
+
+Tizimdagi to‘xtalishlarda ma’lumotlarni qayta tiklash uchun nima zarur bo‘ladi
+A. Backup
+B. Tables
+C. Config
+D. Memory
+ANSWER: A
+
+Qaysi buyruqlardan biri tranzaksiyadagi o‘zgarishlarni saqlash uchun xizmat qiladi
+A. COMMIT
+B. FLUSh
+C. ROLLBACK
+D. BEGIN TRANSACTION
+ANSWER: A
+
+Ma'lumotlar bazasini boshqarish jarayonida bitta rolda nechta foydalanuvchi bo‘lishi mumkin
+A. Bir nechta
+B. Bitta
+C. Ikkita
+D. Uchtadan ko‘p emas
+ANSWER: A
+
+select * from test order by ism desc; So`rovdagi "desc" nima vazifa bajaradi?
+A. Ism ustunini teskarisiga saralaydi
+B. Ism ustunini saralaydi
+C. Ism ustunini guruhlaydi
+D. Test jadvalidan ism ustunini ajratib ko`rsatadi
+ANSWER: A
+
+Qaysi buyruqlardan biri tranzaksiyani boshlanishini e’lon qilish uchun xizmat qiladi
+A. BEGIN TRANSACTION
+B. COMMIT
+C. ROLLBACK
+D. OMMIT
+ANSWER: A
+
+Ma’lumotlarga ruxsat etish xavfsizligi qanday mexanizm bilan ta’minlanadi
+A. Foydalanuvchilar va rollar
+B. Shifrlash
+C. deshifrlash
+D. Faqatgina ma’lumotlarni himoyalash mavjud
+ANSWER: A
+
+Tranzaksiya bu......?
+A. Ma’lumotlar bilan ishlashda o‘zining mantiqiy birligiga ega bo‘lgan ma’lumotlar bazasi jarayonlarining ketma-ket bajarilish guruxi
+B. Fizik va mantiqiy rad etish hollarida oldingi holatdagi ma’lumotlar bazasini tiklash uchun ma’lumotlar saqlanadigan MBBT funksiyasi
+C. MBBT ga bo‘lgan asosiy talablardan biri bu tashqi xotirada ma’lumotlarni ishonchli saqlanishidir
+D. MBning asosiy qismi bo‘lib hisoblanadi va barcha rivojdagi MBBTda pratokol Write Ahead Log – WAL deb nomlanadi
+ANSWER: A
+
+Qaysi buyruqlardan biri tranzaksiyani mutlaq boshlang'ich holatga qaytarish uchun xizmat qiladi
+A. ROLLBACK
+B. COMMIT
+C. BEGIN TRANSACTION
+D. FLUSh
+ANSWER: A
+
+MBBTda bir vaqtning o‘zida ko‘p tranzaksiyalar murojatini qayta ishlash bitta ma’lumotga bir necha marta amalga oshirish imkoniyatini quyidagi terminlardan qaysi birida to‘g‘ri ko‘rsatilgan
+A. Parallellik
+B. Izolyatsiya
+C. Ko‘p miqdorlilik
+D. Bog‘liqlik
+ANSWER: A
+
+Ma’lumotlar bazasi xavfsizligini ta’minlash nimalardan iborat bo'ladi
+A. Jadvallar ustida ayrim amallarni bajarish huquqi faqatgina aniq foydalanuvchiga va aniq vaqt davomida beriladi
+B. Barcha foydalanuvchilar uchun alohida ma’lumotlarni o‘qish huquqi
+C. Faqatgina avtorizatsiyalashgan foydalanuv-chilar uchun harakatlarni bajarish huquqi
+D. Ma’lum toifadagi foydalanuvchilar uchun ma’lumotlarni shifrlash va deshifrlash
+ANSWER: A
+
+Bitta foydalanuvchida nechtagacha rollar bo‘lishi mumkin
+A. Bir nechta
+B. Bitta
+C. Ikkita
+D. Uchtadan ko‘p emas
+ANSWER: A
+
+Ayrim kompyuter tarmoqlarida fizik  taqsimlangan ma’lumotlar majmuining o‘zaro bog‘langan mantiqiy to‘plami (va ularning tavsifi) nima deb ataladi
+A. Taqsimlangan MB
+B. Klasterli MB
+C. Tarmoqli MB
+D. Ierarxik MB
+ANSWER: A
+
+Qaysi MBBT lar dastur bo‘lishini talab qiladi
+A. obyektga yo‘naltirilgan
+B. Relyatsion
+C. Ierarxik
+D. Tarmoqli
+ANSWER: A
+
+Bir nechta amallar birligining nomlanishi nima deyiladi
+A. Tranzaksiya
+B. Opеratsiya
+C. Funksiyalar
+D. Sikllar
+ANSWER: A
+
+Qaysi MBBTlarda konstruktorlar va destruktorlardan foydalaniladi
+A. Obyektga yo‘naltirilgan
+B. Ierarxik
+C. Tarmoqli
+D. Relyatsion
+ANSWER: A
+
+Xodim jadvalida `id`=5 bo‘lgan xodimning Familiyasini o‘zgartirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+A. UPDATE `Xodim` SET `Familiyasi`=`Anvarov` where  `id`=5
+B. ALTER `Xodim` AS `Familiyasi`=`Anvarov` where  `id`=5
+C.   SELECT `Xodim` SET `Familiyasi`=`Anvarov` where  `id`=5
+D. UPDATE `Xodim` `Familiyasi`=`Anvarov`  SET where  `id`=5
+ANSWER: A
+
+Qaysi javobda funksiya va proseduraning farqi noto‘g‘ri ifodalangan
+A. Funksiyaning imkoniyatlari keng, proseduraniki esa cheklangan
+B. Funksiya IN kalit so‘zi bilan, prosedura esa IN va OUT kalit so‘zlari bilan ishlaydi
+C. Funksiya qiymat qaytaradi, prosedura esa qiymat qaytarmaydi
+D. Prosedurada CALL kalit so‘zi ishlatiladi, funksiyada esa ishlatilmaydi
+ANSWER: A
+
+INSERT INTO SELECT amali qaysi javobda to‘g‘ri ko‘rsatilgan?
+A. INSERT INTO `Talaba2`(`id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami`)  SELECT  `id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami` from `Talaba1` WHERE `Fakulteti`=’TF’
+B. INSERT INTO `Talaba2`(`id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami`)  SELECT  `id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami` WHERE `Fakulteti`=’KIF’
+C. INSERT INTO `Talaba2`(`id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami`) VALUES AND SELECT  `id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami` WHERE `Fakulteti`=’DIF’
+D. INSERT INTO `Talaba2`(`id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami`)  SELECT  `id`, `FISh`, `Fakulteti`, `Manzili`, `tel_raqami` from `Talaba2` WHERE `Fakulteti`=’KIF’
+ANSWER: A
+
+Xodim jadvaliga yangi atribut qo‘shish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+A. ALTER TABLE `Xodim` ADD COLUMN `Tel_raqam` text(15) null
+B. ALTER TABLE `Xodim` SET `Jinsi` varchar(10) not null
+C. ALTER TABLE `Xodim` RENAME `Yoshi` int(3) not null
+D. ALTER TABLE `Xodim` CHANGE  `Tel_raqam` text(15)  not null
+ANSWER: A
+
+“Xodim jadvalidan yoshi 37 dan yuqori va familiyasi A harfi bilan boshlanuvchilarning oylik maoshi o‘rta arifmetigi topilsin”. Yuqoridagi shartni qaysi javobdagi so‘rov qanoatlantiradi
+A. SELECT AVG(`maosh`) as `Natija` from `Xodim` WHERE `yoshi`>37  AND  `Familiyasi`  LIKE`A%`
+B. SELECT AVG(`maosh`) as `Natija` from `Xodim` WHERE `yoshi`>37 AND  LIKE `A%`
+C. SELECT AVG(`maosh`) as `Natija` from `Xodim` WHERE `yoshi`>37 AND  LIKE `Familiyasi`=`A%`
+D. SELECT *  from `Xodim` WHERE `yoshi`>37 and LIKE `Familiyasi`=`A%`
+ANSWER: A
+
+Talaba jadvalidan familiyasi B harfi bilan boshlanib, V harfi bilan tugovchilarini sonini sanash so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+A. SELECT COUNT(*) as `Natija`  from  `Talaba`  WHERE  `Familiyasi`  LIKE  `B%V`
+B. SELECT COUNT(*) as `Natija` from `Talaba` WHERE  LIKE `Familiyasi` `B%V`
+C. SELECT COUNT(*) as `Natija` from `Talaba` WHERE LIKE `Familiyasi` `B%V%`
+D. SELECT COUNT(*) as `Natija` from `Talaba` WHERE `Familiyasi` LIKE `%B%V`
+ANSWER: A
+
+Talaba jadvalidan bahosi 4 va undan yuqori bo‘lganlarini familiyasi bo‘yicha guruhlab chiqarish so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+A. SELECT  `Familiyasi`, MAX(`baho`) as `Natija` from `Talaba` GROUP BY `Familiyasi`  HAVING MAX(`baho`)>=4
+B. SELECT  `Familiyasi`, MAX(`baho`) as `Talaba` GROUP BY `Familiyasi`  HAVING  MAX(`baho`)>4
+C. SELECT  `Familiyasi`, MAX(`baho`) as `Natija` from `Talaba` GROUP BY `Familiyasi`  WHERE MAX(`baho`)=>4
+D. SELECT  `Familiyasi as `Talaba` GROUP BY `Familiyasi`  HAVING MAX(`baho`)>4
+ANSWER: A
+
+Mahsulot jadvalidan narxi 4000 so'm va undan yuqori bo‘lganlarini nomi bo‘yicha guruhlab chiqarish so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+A. SELECT  `Nomi`, MAX(`narx`) as `Natija` from `Mahsulot` GROUP BY `Nomi`  HAVING MAX(`narx`)>=4000
+B. SELECT  `Nomi`, MAX(`narx`) as `Natija` from GROUP BY `Nomi`  HAVING MAX(`narx`)>4000
+C. SELECT * from `Mahsulot` GROUP BY `Nomi`  HAVING MAX(`narx`)>4000
+D. SELECT  `Nomi`, MAX(`narx`) as `Natija` from `Mahsulot` GROUP BY `narx`  HAVING MAX(`Nomi`)>=4000
+ANSWER: A
+
+Fanlar jadvalidan `fan_soati` 80 dan yuqori bo‘lganlarini nomi bo‘yicha guruhlab chiqarish so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+A. SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_soati`)>80
+B. SELECT  `Fan_nomi`, MAX(`fan_soati`)  from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_soati`)>=80
+C. SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` GROUP BY `Fan_soati`  HAVING MAX(`fan_soati`)>80
+D. SELECT  `Fan_nomi`, MAX(`fan_soati`) as `Natija` from `Fanlar` GROUP BY `Fan_nomi`  HAVING MAX(`fan_nomi`)>80
+ANSWER: A
+
+Xodim jadvalidan ixtiyoriy atributni o'chirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+A. ALTER TABLE `Xodim` DROP  COLUMN `Tel_raqam` text(15) 
+B. ALTER TABLE `Xodim` DELETE `Jinsi` varchar(10) not null
+C. ALTER TABLE `Xodim` DROP RENAME `Yoshi` int(3) not null
+D. ALTER TABLE `Xodim` CHANGE  DROP `Tel_raqam` text(15)  not null
+ANSWER: A
+
+Xodim jadvalidan ixtiyoriy atributning ma'lumot tipini o'zgartirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+A. ALTER TABLE `Xodim` MODIFY  `Tel_raqam` varchar(15) 
+B. ALTER TABLE `Xodim` MODIFY ALTER `Jinsi` varchar(10) not null
+C. ALTER TABLE `Xodim` MODIFY CHANGE `Yoshi int(3) not null
+D. ALTER TABLE `Xodim` CHANGE COLUMN `Tel_raqam` text(15)  not null
+ANSWER: A
+
+Mahsulot jadvalidan ixtiyoriy atributning ma'lumot tipini o'zgartirish amali qaysi javobda to‘g‘ri ko‘rsatilgan
+A. ALTER TABLE `Mahsulot` MODIFY  `narxi` varchar(15)  null
+B. ALTER TABLE `Mahsulot` MODIFY ALTER `nomi` varchar(10) null
+C. ALTER TABLE `Mahsulot`  MODIFY CHANGE `nomi`  text(3) null
+D. ALTER TABLE `Mahsulot` CHANGE COLUMN `narxi` text(15)  null
+ANSWER: A
+
+SELECT TIMESTAMPDIFF(SECOND, '2015-04-29 22:14:55', '2015-04-29 22:24:18'); So`rov natijasini aniqlang
+A. soniyalar orasidagi farq
+B. joriy vaqtni ko`rsatadi
+C. ko`rsatilgan vaqt
+D. xatolik yuz beradi
+ANSWER: A
+
+Select * from test order by yosh desc; So`rovdagi "desc" nima vazifa bajaradi?
+A. yosh ustunini teskarisiga saralaydi
+B. yosh ustunini saralaydi
+C. yosh ustunini guruhlaydi
+D. Test jadvalidan ism ustunini ajratib ko`rsatadi
+ANSWER: A
+
+Bitta so`rovning ichida joylashgan ikkinchi so‘rov qanday nomlanadi, misol: SELECT * FROM STUDENT WHERE group_id IN (SELECT id FROM group WHERE number=‘217-18’)
+A. quyi so‘rov
+B. bog‘lanish
+C. birlashuv
+D. farq
+ANSWER: A
+
+Quyidagi savol qanday javob qaytaradi: SELECT * FROM students  FULL JOIN Groups ON students.group_id = groups.id
+A. NULL qiymatiga ega bo‘lmagan students.group_id = groups.id tengligi orqali bog‘lanadigan groups va students jadvalidagi barcha qatorlarni chiqaradi
+B. groups va students jadvalidagi barcha qatorlarni chiqaradi
+C. groups va students jadvalidagi students.group_id = groups.id tengligi orqali bog‘lanadigan barcha qatorlarni chiqaradi
+D. groups va students jadvalidagi dekart ko‘paytmani chiqaradi
+ANSWER: A
+
+SELECT * FROM STUDENT WHERE SURNAME Like 'P%';
+A. P harfi bilan boshlanadigan familyalar chiqadi.
+B. P bilan tugovchi familyalar chiqadi.
+C. Hech nima chiqmaydi
+D. P harfiga teng bo‘lmagan familyalar chiqadi
+ANSWER: A
+
+Qaysi javobda LIKE operatoridan to'g'ri foydalanilgan
+A. SELECT * from Talaba WHERE `Familiyasi` LIKE '%ev'
+B. SELECT * from Talaba WHERE LIKE `Familiyasi`  '%ev'
+C. SELECT * from Talaba  `Familiyasi`  WHERE LIKE '%ev%'
+D. SELECT * from Talaba WHERE `Familiyasi`  LIKE 'ev'
+ANSWER: A
+
+Talaba jadvalidan bahosi 4 dan yuqori bo‘lganlarini familiyasi bo‘yicha guruhlab chiqarish so‘rovi qaysi javobda to‘g‘ri ko‘rsatilgan
+A. "SELECT `Familiyasi`, MAX(`baho`) as `Natija` from `Talaba` GROUP BY `Familiyasi` HAVING MAX(`baho`)>4"
+B. "SELECT `Familiyasi`, MAX(`baho`) as `Talaba` GROUP BY `baho` HAVING MAX(`Familiyasi`)>4"
+C. SELECT `Familiyasi as `Talaba` GROUP BY `Familiyasi` HAVING MAX(`baho`)>4
+D. "SELECT `Familiyasi`, MAX(`baho`) as `Natija` from `Talaba` GROUP BY
+ANSWER: A
+
+`Familiyasi` WHERE MAX(`baho`)=>4"
+Qaysi javobda funksiya va proseduraning farqi noto‘g‘ri ifodalangan
+A. Funksiya CALL kalit so‘zi ishlatiladi, prosedurada esa ishlatilmaydi
+B. Funksiyaning imkoniyatlari cheklangan, proseduraniki esa keng
+C. Funksiya IN kalit so‘zi bilan, prosedura esa IN va OUT kalit so‘zlari bilan ishlaydi
+D. Funksiya qiymat qaytaradi, prosedura esa qiymat qaytarmaydi
+ANSWER: A
+
+Qaysi javobda INSERT INTO SELECT amali to'g'ri ko'rsatilgan
+A. INSERT INTO `TATU_TF` (`ID`, `FISh`, `Fakultet`, `Mazili`) SELECT  `ID_Talaba`, `FISh`, `Fakultet`, `Mazili` from `TATU` WHERE  `Fakultet`='Telekommunikatsiya'
+B. INSERT INTO `TATU_TF` (`ID`, `FISh`, `Fakultet`, `Mazili`) SELECT  `ID_Talaba`, `FISh`, `Fakultet`, `Mazili` 
+C. INSERT INTO `TATU_TF` (`ID`, `FISh`, `Fakultet`, `Mazili`) SELECT  `ID_Talaba`, `FISh`, `Fakultet`, `Mazili` from `TATU_TF`
+D. INSERT INTO `TATU_TF` (`ID`, `FISh`, `Fakultet`, `Mazili`) SELECT  `ID`, `FISh`, `Fakultet`, `Mazili` from `TATU_TF` WHERE  `Fakultet`='Telekommunikatsiya'
+ANSWER: A
+
+O'quvchilar jadvalidan 10 yoshlilarini sonini chiqaruvchi so'rov qaysi javobda to'g'ri ko'rsatilgan
+A. SELECT Count(ID) as `Natija` from `O'quvchilar` WHERE `Yoshi`='10'
+B. SELECT Count(ID) as `Natija` from `O'quvchilar` WHERE `Yoshi`>='10'
+C. SELECT *  as `Natija` `O'quvchilar`  from  `Yoshi`  WHERE `='10'
+D. SELECT SUM(ID) as `Natija` from `O'quvchilar` WHERE `Yoshi`='10'
+ANSWER: A
+
+Qaysi javobda LIKE operatoridan to'g'ri foydalanilgan
+A. SELECT * from Xodim WHERE `Ism` LIKE '%or%'
+B. SELECT * from Xodim WHERE LIKE `Ism`  '%or'
+C. SELECT * from Xodim  `Ism`  WHERE LIKE '%or%'
+D. SELECT * from Xodim WHERE `Ism` LIKE 'or'
+ANSWER: A
+
+LIKE to`g`ri qo'llanilgan so`rovni ko`rsating
+A. SELECT   * FROM      Products WHERE   PName LIKE ‘%gizmo%’
+B. SELECT   * FROM     LIKE WHERE   PName  Products ‘%gizmo%’
+C. SELECT  LIKE(‘%gizmo%’)  FROM      Products WHERE   PName  
+D. SELECT   * FROM      Products,   PName LIKE ‘%gizmo%’
+ANSWER: A
+
+Select lpad(o'yinchi, 10, '*') from fun. So`rov natijasini tanlang
+A. ****Ahmedov
+B. **********Ahmedov
+C. Ahmedov***
+D. Ahmedov****
+ANSWER: A
+
+Select rpad(uyinchi, 10, '*') from func; So`rov natijasini tanlang
+A. Ahmedov****
+B. ****Ahmedov
+C. Ahmedov***
+D. **********Ahmedov
+ANSWER: A
+
